@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:50,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{CMS:[],about:[],all:[],arkestra:[],contribut:[],daniel:[],develop:[],django:[],index:0,modul:0,page:0,procida:[],search:0,user:[]},titles:["Welcome to SAM&#8217;s documentation!"],titleterms:{about:[],all:[],document:0,indic:0,sam:0,tabl:0,welcom:0}})
